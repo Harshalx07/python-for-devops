@@ -1,0 +1,25 @@
+=======================================================
+         LOG ANALYSIS SUMMARY REPORT
+=======================================================
+  File        : /Users/mikey/Python For DevOps/python-for-devops/day-06/app.log
+  Generated   : 2026-05-10 20:14:08
+  Total lines : 15
+  Parsed      : 15
+  Skipped     : 0 (unrecognised format)
+=======================================================
+
+  Log Level Breakdown:
+  ------------------------------
+  DEBUG          0  
+  INFO          10  ██████████
+  WARNING        2  ██
+  ERROR          3  ███
+  CRITICAL       0  
+
+  Filtered entries — level: ERROR (3 found)
+  ------------------------------
+  [2025-01-10 09:10:22]  Failed to fetch user data
+  [2025-01-10 09:10:25]  Database timeout occurred
+  [2025-01-10 09:25:10]  Unable to write logs to disk
+
+=======================================================
