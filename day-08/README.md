@@ -91,7 +91,7 @@ Note: This is **NOT mandatory** and can be skipped if you are new to AWS. This w
 
 ### AWS Setup
 - AWS CLI & credentials configuration:  
-  https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
+  https://docs.aws.amazon.com/cli/latestaws /userguide/cli-configure-quickstart.html
 
 ### Boto3
 - Boto3 documentation:  

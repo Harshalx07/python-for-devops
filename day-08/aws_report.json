@@ -1,0 +1,9 @@
+{
+    "generated_at": "2026-05-12T15:44:56.240110Z",
+    "summary": {
+        "total_ec2_instances": 0,
+        "total_s3_buckets": 0
+    },
+    "ec2_instances": [],
+    "s3_buckets": []
+}
